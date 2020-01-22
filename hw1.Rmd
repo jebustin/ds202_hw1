@@ -1,0 +1,26 @@
+---
+title: "hm1"
+author: 'Jessie Bustin Github: jebustin'
+date: "1/15/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+The following link provides an overview of what **data scientists** do:
+
+<https://datasciencedegree.wisconsin.edu/data-science/what-do-data-scientists-do/>
+
+Based on this info, it is easy to deduce the wide ranging applications of **data science**.  One job a **data scientist** might perform is *app data analysis for a freemium game developer*.  Games on our smart phones that are free to play but then sell in game currencies have become wildly popular.  The profitability of these games comes from the analysis of purchasing data not simply the quality of the games.  A data analyst for one of these companies would also need to be well versed in subjects such as psychology, sociology, business sales, game theory, and app development.
+
+![Data Science Career Pros and Cons](hw1.jpg)
+
+
+
+```{r}
+version
+```
+
+Github username: jebustin
