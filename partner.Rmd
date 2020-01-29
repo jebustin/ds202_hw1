@@ -1,0 +1,15 @@
+---
+title: "partner"
+author: "Jessie Bustin GitHub: @jebustin"
+date: "1/28/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Owners most recent commit was hw1.Rmd
+commit ID: ac06ce2
+Knit Result: failed due to missing jpeg file from github
+Tips to improve: in future we learnt to upload jpeg files also to git so compilation errors are avoided.
